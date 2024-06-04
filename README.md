@@ -35,8 +35,7 @@
 
   <h2>Screenshots</h2>
    <p><strong>Azure IoT Hub</strong></p>
-    <img src="path_to_image_1" alt="Azure ![Screenshot 2024-06-04 142928](https://github.com/Savan2110/IoT-Real-Time-Data-Project-using-Azure/assets/51812887/f056626a-100a-42ec-a309-ec41ed3fb4d8)
-IoT Hub">
+    <img src="https://github.com/Savan2110/IoT-Real-Time-Data-Project-using-Azure/assets/51812887/f056626a-100a-42ec-a309-ec41ed3fb4d8">
 
    <p><strong>Registered IoT Device</strong></p>
     <img src="path_to_image_2" alt="Registered Io![Screenshot 2024-06-04 143011](https://github.com/Savan2110/IoT-Real-Time-Data-Project-using-Azure/assets/51812887/1717c982-6ebe-43a0-b980-2b1b6222011b)
