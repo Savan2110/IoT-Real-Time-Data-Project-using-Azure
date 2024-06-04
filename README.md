@@ -7,6 +7,8 @@
 
  <h2>Architecture</h2>
     <p>The architecture of this project includes the following components:</p>
+    <img src="https://github.com/Savan2110/IoT-Real-Time-Data-Project-using-Azure/assets/51812887/736f290f-bd52-4885-b88a-ed6a57a31073">
+
     <ul>
         <li><strong>Raspberry Pi Simulator:</strong> Generates and sends simulated data to Azure IoT Hub.</li>
         <li><strong>Azure IoT Hub:</strong> Receives and manages messages from IoT devices.</li>
