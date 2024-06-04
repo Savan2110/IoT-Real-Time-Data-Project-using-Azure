@@ -43,7 +43,7 @@
    <p><strong>Azure SQL Database</strong></p>
     <img src="https://github.com/Savan2110/IoT-Real-Time-Data-Project-using-Azure/assets/51812887/be8a9957-d5c8-43db-bd5f-b0962bca0186)">
    
-   <p><strong>Azure SQL Database</strong></p>
+   <p><strong>Azure Stream Analytics</strong></p>
     <img src="https://github.com/Savan2110/IoT-Real-Time-Data-Project-using-Azure/assets/51812887/8d43ebf0-045d-4c4d-9ce6-e864547fb37e">
     
  <h2>Conclusion</h2>
