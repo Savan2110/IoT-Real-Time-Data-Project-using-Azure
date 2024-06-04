@@ -34,17 +34,17 @@
     </ul>
 
   <h2>Screenshots</h2>
-   <p><strong>Azure IoT Hub</strong></p>
+   <p><strong>Azure IoT Resource Group</strong></p>
     <img src="https://github.com/Savan2110/IoT-Real-Time-Data-Project-using-Azure/assets/51812887/f056626a-100a-42ec-a309-ec41ed3fb4d8">
 
    <p><strong>Registered IoT Device</strong></p>
     <img src="https://github.com/Savan2110/IoT-Real-Time-Data-Project-using-Azure/assets/51812887/1717c982-6ebe-43a0-b980-2b1b6222011b">
 
    <p><strong>Azure SQL Database</strong></p>
-    <img src="https://github.com/Savan2110/IoT-Real-Time-Data-Project-using-Azure/assets/51812887/8d43ebf0-045d-4c4d-9ce6-e864547fb37e">
-
-   <p><strong>Azure SQL Database</strong></p>
     <img src="https://github.com/Savan2110/IoT-Real-Time-Data-Project-using-Azure/assets/51812887/be8a9957-d5c8-43db-bd5f-b0962bca0186)">
+   
+   <p><strong>Azure SQL Database</strong></p>
+    <img src="https://github.com/Savan2110/IoT-Real-Time-Data-Project-using-Azure/assets/51812887/8d43ebf0-045d-4c4d-9ce6-e864547fb37e">
     
  <h2>Conclusion</h2>
     <p>
